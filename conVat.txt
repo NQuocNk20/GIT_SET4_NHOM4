@@ -17,3 +17,7 @@ con ga
 con cuu
 con tho 
 con heo
+
+con voi
+con chim
+con vit
