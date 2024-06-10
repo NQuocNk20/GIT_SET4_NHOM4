@@ -9,3 +9,7 @@ con chim
 con voi
 con kien
 con bo
+
+con ca
+con ngua
+con ga
