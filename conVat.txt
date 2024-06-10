@@ -28,3 +28,4 @@ con fish
 
 con pig
 con monkey
+con chicken
