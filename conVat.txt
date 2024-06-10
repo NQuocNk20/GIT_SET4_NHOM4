@@ -13,3 +13,7 @@ con bo
 con ca
 con ngua
 con ga
+
+con cuu
+con tho 
+con heo
